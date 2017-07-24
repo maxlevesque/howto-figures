@@ -13,6 +13,8 @@ https://journals.aps.org/prl/authors/axis-labels-and-scales-on-graphs-h18
 
 https://www.reddit.com/r/Python/comments/45c5qf/python_plots_used_in_gravitational_waves/
 
+"Graphical Excellence" is described by J. Phys. Chem. Lett. editors:  
+http://sci-hub.cc/10.1021/jz500997e
 
 ## Citing Free Software?
 
